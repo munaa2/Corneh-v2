@@ -45,7 +45,7 @@
 
 ### 🔹 DEPLOY ON HEROKU
 
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/Charleskenya1/CHARLESKE)
+  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/munaa2/Cornehv2)
   
 ### 🔹 DEPLOY ON OTHER PLATFORMS
 - **Render:**  

@@ -1,8 +1,8 @@
 {
-  "name":"CHARLES-KE",
-  "description":"Best whatsapp bot developed by Ibrahim adams",
+  "name":"Corneh-v2",
+  "description":"Best whatsapp bot developed by Corneh TECH",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/o6me6t.jpeg",
+  "logo":"https://files.catbox.moe/vry79z.jpg",
   "repository":"https://github.com/ekitale/maths-project",
   "succes_url":"/",
   "stack":"heroku-24",
@@ -53,14 +53,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐂𝐇𝐀𝐑𝐋𝐄𝐒 𝐊𝐄",
+      "value":"𝙘𝙤𝙧𝙣𝙚𝙝 𝙫2",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://ibb.co/q70RyBd",
+      "value":"https://files.catbox.moe/vry79z.jpg",
       "required":false
        
      },
@@ -92,14 +92,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "©charles"
+    "value": "𝕔𝕠𝕣𝕟𝕖𝕙"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254759626063"
+    "value": "254795891711"
   },
     "WARN_COUNT":
   {

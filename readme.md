@@ -2,7 +2,7 @@
 <p align="center">  
   <a href="https://files.catbox.moe/vry79z.jpg">
     <img alt="secktor docs" height="300" src="https://files.catbox.moe/vry79z.jpg">
-    <h1 align="center"> CHARLESKE - POWERED BY CHARLESKE</h1>
+    <h1 align="center"> CHARLESKE - POWERED BY CORNEH TECH</h1>
   </a>
 </p>  
 
